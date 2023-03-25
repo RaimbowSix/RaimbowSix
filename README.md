@@ -1,3 +1,3 @@
-### 📌RaimbowSix's server: [discord](https://discord.gg/JKnK6jXxRH)
-### make a ticket in the server if you are interested in anything.
-### 
+# 📌Links:
+###  - https://img.shields.io/badge/🎓-Discord-blue [discord](https://discord.gg/JKnK6jXxRH)
+###  - https://img.shields.io/badge/RaimbowSix-Discord-blue
