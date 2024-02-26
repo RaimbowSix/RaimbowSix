@@ -2,7 +2,9 @@
 
 <p align="center">Cyber Security enjoyer 💻, CTF Player 🔒</p>
 
-[Discord](https://discord.com/users/368681367115923457), [Bio](https://e-z.bio/raimbowsix)
+<p align="center">https://e-z.bio/raimbowsix
+</p>
+https://e-z.bio/raimbowsix
 
 <br>
 
