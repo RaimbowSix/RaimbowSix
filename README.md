@@ -1,6 +1,6 @@
 <h1 align="center">RaimbowSix</h1>
 
-<p align="center">Cyber Security enjoyer 💻, CTF Player 🔒</p>
+<p align="center">Cyber Security Enjoyer 💻, CTF Player 🔒</p>
 
 <p align="center">https://e-z.bio/raimbowsix
 </p>
@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-<h4>Statistical Data :</h4>
+<h4>Data :</h4>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=RaimbowSix&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
