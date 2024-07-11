@@ -1,7 +1,5 @@
 <h1 align="center">RaimbowSix</h1>
 
-<p align="center">Cyber Security Enjoyer 💻</p>
-
 <p align="center">https://e-z.bio/raimbowsix
 </p>
 
