@@ -1,6 +1,5 @@
-<h1 align="center">RaimbowSix</h1>
+<h1 align="center">RainbowSix</h1>
 
-<p align="center">https://e-z.bio/raimbowsix
 </p>
 
 <br>
