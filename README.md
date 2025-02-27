@@ -1,5 +1,5 @@
 
-<h1 align="center">RainbowSix</h1>
+<h1 align="center">RaimbowSix</h1>
 
 </p>
 
